@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+background: url(blur-office-background-2926794_960_720.jpg) no-repeat center center fixed;
+background-size: cover;
+
+
+
+}
+.container{
+display: inline-block;
+color: #f7f7f7;
+
+position: absolute ;
+top: 25%;
+left: 40%;
+
+}
+.container h1{
+display: inline-block;
+color: #c93f3f;
+font-size: 55px;
+border-bottom: 2px solid #c93f3f;
+margin-bottom: 20px;
+
+}
+
+.box{
+margin: 30px;
+border-bottom: 1px solid #c93f3f;
+}
+.box input{
+background : none;
+width: 75%;
+margin: 12px 0px;
+padding: 5px 0px;
+font-size: 18px;
+border: none;
+outline: none;
+color: black;
+
+
+}
+.box i{
+ width: 50px;
+ text-align: center;
+ color: #c93f3f;
+
+}
+.btn{
+
+color: #c93f3f;
+cursor: pointer;
+outline: none;
+margin: 12px 0;
+padding: 10px 21px;
+border: 2px solid #c93f3f;
+border-radius: 12px;
+font-size: 18px;
+background: none;
+font-weight: bold;
+
+}
+.btn:hover{
+
+color: #c93f3f;
+cursor: pointer;
+
+background: white;
+font-weight: bold;
+
+}
